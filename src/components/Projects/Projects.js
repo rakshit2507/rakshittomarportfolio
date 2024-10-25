@@ -10,6 +10,7 @@ import BookStore from "../../Assets/Projects/BookStore.jpeg";
 import bitsOfCode from "../../Assets/Projects/blog.png";
 
 function Projects() {
+  // console
   return (
     <Container fluid className="project-section">
       <Particle />
