@@ -3,7 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import leaf from "../../Assets/Projects/leaf.png";
-import SportsBikesCars from "../../Assets/Projects/SportsBikesCars.jpeg";
+import SportsBikesCars from "../../Assets/Projects/SportsBikesCars.png";
 import editor from "../../Assets/Projects/codeEditor.png";
 import truesays from "../../Assets/Projects/truesays.png";
 import BookStore from "../../Assets/Projects/BookStore.jpeg";
@@ -83,8 +83,8 @@ function Projects() {
               isBlog={false}
               title="Sports Bikes And Cars"
               description="A basic web application built using React.js, HTML, and CSS that showcases a variety of sports bikes and cars. Features include a gallery view for each vehicle and information about their services."
-              ghLink=""
-              // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
+              ghLink="https://github.com/rakshit2507/SportsBikesAndCars"
+              demoLink="https://sportsbikesandcarsbasic.netlify.app/"      //Please include a demo link here 
             />
           </Col>
         </Row>
